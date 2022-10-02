@@ -2,7 +2,7 @@
 
 `Live Events Presenter Turned Computer Science Student @ UA92`
  
-I have a for passion football analytics & front-end development, aiming to combine & perfect the two over the course of my degree. My GitHub features work from my studies, also including personal projects. I'm currently perfecting my HTML, CSS & JS skills while dabbling in Python :snake: via Streamlit :fire:
+I have a for passion football analytics & front-end development, aiming to combine & perfect the two over the course of my degree. My GitHub features work from my studies, also including personal projects. I'm currently perfecting my HTML, CSS & JS skills while dabbling in Python :snake: with Streamlit :fire:
 
 ## Languages & Tools
 
