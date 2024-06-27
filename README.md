@@ -4,7 +4,7 @@
  
 I have a passion for data analytics & data science.
 
-My GitHub features work from my studies at University Academy 92 as well as personal projects. I'm currently perfecting my Python :snake: & Streamlit :fire: skills.
+My GitHub features work from my studies at University Academy 92 as well as personal projects. I'm currently perfecting my Python :snake: & Streamlit 👑: skills.
 
 ## Languages & Tools
 
