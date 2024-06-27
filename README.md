@@ -2,7 +2,7 @@
 
 `Data Analyst/Scientist`
  
-I have a for passion data analytics & science My GitHub features work from my studies at University Academy 92, also including personal projects. I'm currently perfecting my Python :snake: & Streamlit :fire: skills.
+I have a for passion data analytics & data science My GitHub features work from my studies at University Academy 92, also including personal projects. I'm currently perfecting my Python :snake: & Streamlit :fire: skills.
 
 ## Languages & Tools
 
