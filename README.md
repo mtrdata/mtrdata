@@ -1,6 +1,6 @@
 # Matthew :soccer: :bar_chart:
 
-`Data Analyst/Scientist`
+`Data Analyst`
  
 I have a passion for data analytics & data science.
 
